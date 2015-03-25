@@ -1,0 +1,33 @@
+/* Basic CSS styles */
+* {
+ box-sizing: border-box;   
+}
+
+body {
+    
+}
+
+
+/* Layout */
+
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+
+
+/* Typography */
+
+
+
+
+
+/* Responsinve */
+@media screen and (max-width: 480px) {
+    body {
+     background: navy;   
+    }
+}
+
